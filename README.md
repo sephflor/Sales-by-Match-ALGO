@@ -1,1 +1,1 @@
-# Sales-by-Match-ALGO
+# Sales-by-Match-ALGO.This program counts how many pairs of socks with matching colors are in the input list by tracking occurrences of each color in a dictionary and summing up the number of full pairs (count / 2) for each color. It then outputs the total number of pairs.
